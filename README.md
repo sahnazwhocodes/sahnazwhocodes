@@ -1,7 +1,7 @@
-### Hi I am Sahnaz Akter 🎀
+### Hi I'm Sahnaz Akter 🎀
 
 <!--
-
+<img src=https://variety.com/wp-content/uploads/2019/03/spongebob.jpg?w=500>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
